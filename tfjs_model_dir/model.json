@@ -150,9 +150,7 @@
   },
   "weightsManifest": [
     {
-      "paths": [
-        "https://github.com/jmetzg11alpine/number_image_backend/blob/main/tfjs_model_dir/group1-shard1of1.bin?raw=true"
-      ],
+      "paths": ["group1-shard1of1.bin"],
       "weights": [
         { "name": "conv2d/kernel", "shape": [3, 3, 1, 32], "dtype": "float32" },
         { "name": "conv2d/bias", "shape": [32], "dtype": "float32" },
